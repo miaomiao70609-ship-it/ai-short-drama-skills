@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI 短剧导演 Agent"
+  short_description: "编排八阶段AI影视生产、质量门禁、断点续作与局部返修"
+  default_prompt: "使用 $ai-drama-director-agent 为我的项目选择流程，协调专业 Skill 并生成完整制作包。"
